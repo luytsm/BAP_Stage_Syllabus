@@ -2,7 +2,7 @@ name: jekyll-reveal
 markdown: redcarpet
 highlighter: pygments
 
-baseurl: /mcu-cursus
+baseurl: /BAP_Stage_Syllabus
 
 collections:
   slides:
